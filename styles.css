@@ -32,11 +32,12 @@ body, html {
 }
 
 .container {
-  width: 80%;
+  width: 70%;
   margin: auto;
-  border: 2px solid white;
+  border: 2px solid skyblue;
   border-radius: 10px;
   box-shadow: 0 0 10px skyblue;
+  padding: 20px 30px;
 }
 
 img {
