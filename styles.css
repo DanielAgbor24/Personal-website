@@ -31,6 +31,14 @@ body, html {
     font-family: var(--font);
 }
 
+.container {
+  width: 80%;
+  margin: auto;
+  border: 2px solid white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px skyblue;
+}
+
 img {
     width: 30%;
     border-radius: calc(var(--image) * 2);
